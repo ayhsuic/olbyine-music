@@ -1,0 +1,8 @@
+{
+  "name": "Olbyine Music",
+  "description": "High-fidelity local & cloud music player with syllable-synchronized AMLL lyrics, dynamic artwork mesh, 10-band EQ, and multi-OS design system (iOS, ColorOS, HyperOS, Material).",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
